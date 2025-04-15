@@ -15,6 +15,19 @@ namespace SimpleCalculator
             Console.Write("Podaj drugą liczbę: ");
             double secondNumber = Convert.ToDouble(Console.ReadLine());
 
+            // Tworzymy tablicę z liczbami
+            double[] numbers = { firstNumber, secondNumber };
+
+            // Sortujemy tablicę
+            Array.Sort(numbers);
+
+            // Wyświetlamy posortowane liczby
+            Console.WriteLine("Posortowane liczby: ");
+            foreach (var number in numbers)
+            {
+                Console.WriteLine(number);
+            }
+
             Console.Write("Podaj operator (+, -, *, /): ");
             char operation = Console.ReadLine()[0];
 
@@ -23,18 +36,18 @@ namespace SimpleCalculator
             switch (operation)
             {
                 case '+':
-                    result = firstNumber + secondNumber;
+                    result = numbers[0] + numbers[1];  // Dodajemy posortowane liczby
                     break;
                 case '-':
-                    result = firstNumber - secondNumber;
+                    result = numbers[1] - numbers[0];  // Odejmujemy mniejszą od większej
                     break;
                 case '*':
-                    result = firstNumber * secondNumber;
+                    result = numbers[0] * numbers[1];  // Mnożymy posortowane liczby
                     break;
                 case '/':
-                    if (secondNumber != 0)
+                    if (numbers[1] != 0)  // Dzielimy większą przez mniejszą
                     {
-                        result = firstNumber / secondNumber;
+                        result = numbers[1] / numbers[0];
                     }
                     else
                     {
