@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\zadanie111\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F95158EB-9FA2-4DC4-9EC6-ECE5507E2B48}|zadanie111\\zadanie111.csproj|c:\\users\\student\\zadanie111\\zadanie111\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95158EB-9FA2-4DC4-9EC6-ECE5507E2B48}|zadanie111\\zadanie111.csproj|solutionrelative:zadanie111\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\student\\zadanie111\\zadanie111\\Program.cs",
+              "RelativeDocumentMoniker": "zadanie111\\Program.cs",
+              "ToolTip": "C:\\Users\\student\\zadanie111\\zadanie111\\Program.cs",
+              "RelativeToolTip": "zadanie111\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:14:19.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
