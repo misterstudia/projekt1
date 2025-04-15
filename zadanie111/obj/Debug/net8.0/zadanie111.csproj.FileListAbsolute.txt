@@ -1,0 +1,15 @@
+C:\Users\student\zadanie111\zadanie111\bin\Debug\net8.0\zadanie111.exe
+C:\Users\student\zadanie111\zadanie111\bin\Debug\net8.0\zadanie111.deps.json
+C:\Users\student\zadanie111\zadanie111\bin\Debug\net8.0\zadanie111.runtimeconfig.json
+C:\Users\student\zadanie111\zadanie111\bin\Debug\net8.0\zadanie111.dll
+C:\Users\student\zadanie111\zadanie111\bin\Debug\net8.0\zadanie111.pdb
+C:\Users\student\zadanie111\zadanie111\obj\Debug\net8.0\zadanie111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\zadanie111\zadanie111\obj\Debug\net8.0\zadanie111.AssemblyInfoInputs.cache
+C:\Users\student\zadanie111\zadanie111\obj\Debug\net8.0\zadanie111.AssemblyInfo.cs
+C:\Users\student\zadanie111\zadanie111\obj\Debug\net8.0\zadanie111.csproj.CoreCompileInputs.cache
+C:\Users\student\zadanie111\zadanie111\obj\Debug\net8.0\zadanie111.sourcelink.json
+C:\Users\student\zadanie111\zadanie111\obj\Debug\net8.0\zadanie111.dll
+C:\Users\student\zadanie111\zadanie111\obj\Debug\net8.0\refint\zadanie111.dll
+C:\Users\student\zadanie111\zadanie111\obj\Debug\net8.0\zadanie111.pdb
+C:\Users\student\zadanie111\zadanie111\obj\Debug\net8.0\zadanie111.genruntimeconfig.cache
+C:\Users\student\zadanie111\zadanie111\obj\Debug\net8.0\ref\zadanie111.dll
