@@ -6,7 +6,8 @@ namespace SimpleCalculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Witaj Docker!");
+            Console.WriteLine("Witaj Docker!\n");
+            Console.WriteLine("Docker działa.");
         }
     }
 }
